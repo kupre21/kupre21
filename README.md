@@ -1,16 +1,20 @@
-## Hi there 👋
+I am a dedicated Discord bot developer with strong expertise in **JavaScript** and **Discord.js**. I also have foundational knowledge in **C/C++**, **C#**, and **NoSQL** databases. My focus is on building scalable, efficient, and maintainable bots, while continuously improving my development skills.
 
-<!--
-**kupre21/kupre21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kupre21&show_icons=true&count_private=true&hide=prs&theme=default)
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages:** Python, JavaScript, C/C++, C# (basics)  
+- **Frameworks & Libraries:** Discord.js  
+- **Databases:** NoSQL (basics)  
+- **Tools & Platforms:** Node.js, npm, Git  
+
+## Selected Projects
+
+- [Yugo++]([https://github.com/kupre21/Yugo-]): A modular and feature-rich Discord bot built using Discord.js.  
+ 
+## Contact
+
+- Discord: kupre2143
+- GitHub: [https://github.com/kupre21](https://github.com/kupre21)  
+
