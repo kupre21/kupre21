@@ -1,6 +1,6 @@
 I am a dedicated Discord bot developer with strong expertise in **JavaScript** and **Discord.js**. I also have foundational knowledge in **C/C++**, **C#**, and **NoSQL** databases. My focus is on building scalable, efficient, and maintainable bots, while continuously improving my development skills.
 
-[Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kupre21&layout=compact&theme=default&hide=jupyter%20notebook&langs_count=5)
+[Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=kupre21&layout=compact&theme=default&hide=jupyter%20notebook&langs_count=5])
 
 ## Technical Skills
 
